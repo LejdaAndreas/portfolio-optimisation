@@ -13,7 +13,7 @@ A Python library for quantitative portfolio optimization.
 ## Installation
 
 ```bash
-pip install -e .
+pip install yfinance .
 ```
 
 ## Example
